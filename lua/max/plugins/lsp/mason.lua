@@ -23,7 +23,6 @@ mason_lspconfig.setup({
 	ensure_installed = {
 		"tsserver",
 		"html",
-		"dart",
 		"solidity",
 		"cssls",
 		"tailwindcss",
